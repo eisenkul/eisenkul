@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @eisenkul, System Administrator. Speciality about MS Exchange Server, M365, Azure AD.
 - 👀 I’m interested in Powershell Scripting and Automation
-- 🌱 I’m currently learning Azure Devops
+- 🌱 I’m currently learning Azure Cloud Platform
 - 📫 How to reach me: ersinisenkul@gmail.com
